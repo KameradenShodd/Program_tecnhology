@@ -47,5 +47,17 @@
             var withdrawal = new Transaction(-amount, date, note);
             _allTransactions.Add(withdrawal);
         }
+        public string GetAccountHistory()
+        {
+            var report = new System.Text.StringBuilder();
+            decimal balance = 0;
+            report.AppendLine("Date\t\tAmount\tBalance\tNote");
+            foreach (var item in _allTransactions)
+            {
+                balance += item.amount;
+                report.AppendLine($"{item.date.ToShortDateString()}\t{item.amount}\t{balance}\t{item.note}");
+            }
+            return report.ToString();
+        }
     }
 }
