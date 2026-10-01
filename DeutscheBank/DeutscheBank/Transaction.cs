@@ -9,6 +9,5 @@
     internal record Transaction(decimal amount, DateTime date, string note)
     {
 
-
     }
 }
