@@ -13,6 +13,7 @@
             account1.MakeWithdrawal(12000, DateTime.UtcNow, "got robbed by other guy");
             Console.WriteLine($"{account1.Balance}");
             Console.WriteLine(account1.GetAccountHistory());
+
             try { account2.MakeWithdrawal(1000, DateTime.UtcNow, "oh daaaaaaaaamn"); } catch (InvalidOperationException e) { Console.WriteLine(e.Message); }
         }
     }
