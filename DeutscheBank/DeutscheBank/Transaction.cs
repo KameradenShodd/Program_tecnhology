@@ -8,5 +8,6 @@
     ///<param name="note"> The best note </param>
     internal record Transaction(decimal amount, DateTime date, string note)
     {
+
     }
 }
