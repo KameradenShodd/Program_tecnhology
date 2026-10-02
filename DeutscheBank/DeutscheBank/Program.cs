@@ -15,24 +15,6 @@
             Console.WriteLine($"{account1.Balance}");
             Console.WriteLine(account1.GetAccountHistory());
             try { account2.MakeWithdrawal(1000, DateTime.UtcNow, "oh daaaaaaaaamn"); } catch (InvalidOperationException e) { Console.WriteLine(e.Message); }
-            InterestEarningAccount interest = new InterestEarningAccount("John Poor", 1000);
-            LineOfCreditAccount lineOfCredit = new LineOfCreditAccount("John Poor", 0, 1000m);
-            lineOfCredit.MakeWithdrawal(10m, DateTime.UtcNow, "Take out loan");
-
-            GiftCartAccoutn giftcart = new GiftCartAccoutn("John Poor", 500m, 1000m);
-            List<BankAccount> accounts = new List<BankAccount>();
-            accounts.Add(account1);
-            accounts.Add(interest);
-            accounts.Add(lineOfCredit);
-            accounts.Add(giftcart);
-            foreach (var account in accounts)
-            {
-                Console.WriteLine($"Account: {account}");
-                account.PerformMonthAndTransactions();
-                Console.WriteLine(account.GetAccountHistory());
-            }
-            //lineOfCredit.MakeWithdrawal(500m, DateTime.UtcNow, "Take out loan");
-
         }
     }
 }

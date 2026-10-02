@@ -6,7 +6,7 @@
     ///<param name="amount"> summ of the transaction</param>
     ///<param name="date"> date of the transaction</param>
     ///<param name="note"> The best note </param>
-    public record Transaction(decimal amount, DateTime date, string note)
+    internal record Transaction(decimal amount, DateTime date, string note)
     {
 
     }
