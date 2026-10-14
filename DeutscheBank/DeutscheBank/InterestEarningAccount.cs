@@ -4,6 +4,9 @@ using System.Text;
 
 namespace DeutscheBank
 {
+    /// <summary>
+    /// Сберегательный счёт с начислением процентов на баланс свыше 500 единиц.
+    /// </summary>
     public class InterestEarningAccount : BankAccount
     {
         /// <summary>

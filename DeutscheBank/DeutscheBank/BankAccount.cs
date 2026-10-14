@@ -3,12 +3,24 @@ using System.Collections.Generic;
 
 namespace DeutscheBank
 {
+    /// <summary>
+    /// Базовый класс для банковского счёта. Содержит общие свойства и методы для всех типов счетов.
+    /// </summary>
     public class BankAccount
     {
         private readonly decimal _mininumBalance;
         private List<Transaction> _allTransactions = new List<Transaction>();
+        /// <summary>
+        ///    Владелец счёта
+        /// </summary>
         public string Owner { get; private set; }
+        /// <summary>
+        ///     Номер счёта
+        /// </summary>
         public string Number { get; }
+        /// <summary>
+        ///     Баланс счёта
+        /// </summary>
         public decimal Balance
         {
             get
@@ -22,16 +34,44 @@ namespace DeutscheBank
             }
         }
         private static int account_num_seed = 1000_000_000;
+        /// <summary>
+        ///     Статус аккаунта
+        /// </summary>
         public enum AccountStatus
         {
-            Regular, Premium, VIP
+            /// <summary>
+            ///     Обычный аккаунт
+            /// </summary>
+            Regular,
+            /// <summary>
+            ///     Премиум аккаунт
+            /// </summary>
+            Premium, 
+            /// <summary>
+            ///     VIP аккаунт
+            /// </summary>  
+            VIP
         }
+        /// <summary>
+        ///     Статус аккаунта
+        /// </summary>
         public AccountStatus Status { get; private set; }
+        /// <summary>
+        ///       Создание аккаунта с начальным балансом и статусом Regular
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="initialBalance"></param>
         public BankAccount(string name, decimal initialBalance)
             : this(name, initialBalance, 0, AccountStatus.Regular)
         {
         }
 
+        /// <summary>
+        ///      Создание аккаунта с начальным балансом и указанным статусом
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="initialBalance"></param>
+        /// <param name="status"></param>
         public BankAccount(string name, decimal initialBalance, AccountStatus status)
             : this(name, initialBalance, 0, status)
         {
