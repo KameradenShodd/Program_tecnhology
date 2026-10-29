@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="AccoutnNumbers.Core/BankAccount.Core.csproj" Id="657a7e60-0cbb-41fe-81a6-c48421611856" />
+  </Folder>
   <Project Path="DeutscheBank/DeutscheBank.csproj" />
 </Solution>
