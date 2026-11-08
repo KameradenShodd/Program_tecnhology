@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\game\\asingleround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\game\\asingleround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\evaluationofnumber\\isitlowerorslightlyhigher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\evaluationofnumber\\isitlowerorslightlyhigher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\evaluationofnumber\\iisitlowerorhigher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\evaluationofnumber\\iisitlowerorhigher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\checker\\idiotchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\checker\\idiotchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\our_or_in_put\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\our_or_in_put\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\randomnumbergenerator\\randomnumgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\randomnumbergenerator\\randomnumgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\our_or_in_put\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\our_or_in_put\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\other\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\other\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\checker\\ichecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\checker\\ichecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\lucky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\lucky.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\randomnumbergenerator\\igenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\randomnumbergenerator\\igenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|c:\\users\\shodde\\source\\repos\\program_tecnhology\\deutschebank\\deutschebank\\src\\lucky\\lucky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A9A5-57C5-9BD3-4B8E-193508D7FE65}|lucky\\lucky.csproj|solutionrelative:lucky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASingleRound.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Game\\ASingleRound.cs",
+              "RelativeDocumentMoniker": "lucky\\Game\\ASingleRound.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Game\\ASingleRound.cs",
+              "RelativeToolTip": "lucky\\Game\\ASingleRound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T02:59:39.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IsItLowerOrSlightlyHigher.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\EvaluationOfNumber\\IsItLowerOrSlightlyHigher.cs",
+              "RelativeDocumentMoniker": "lucky\\EvaluationOfNumber\\IsItLowerOrSlightlyHigher.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\EvaluationOfNumber\\IsItLowerOrSlightlyHigher.cs",
+              "RelativeToolTip": "lucky\\EvaluationOfNumber\\IsItLowerOrSlightlyHigher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:02:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIsItLowerOrHigher.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\EvaluationOfNumber\\IIsItLowerOrHigher.cs",
+              "RelativeDocumentMoniker": "lucky\\EvaluationOfNumber\\IIsItLowerOrHigher.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\EvaluationOfNumber\\IIsItLowerOrHigher.cs",
+              "RelativeToolTip": "lucky\\EvaluationOfNumber\\IIsItLowerOrHigher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T16:01:00.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInput.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Our_or_In_put\\IInput.cs",
+              "RelativeDocumentMoniker": "lucky\\Our_or_In_put\\IInput.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Our_or_In_put\\IInput.cs",
+              "RelativeToolTip": "lucky\\Our_or_In_put\\IInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:54:51.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOutput.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Our_or_In_put\\IOutput.cs",
+              "RelativeDocumentMoniker": "lucky\\Our_or_In_put\\IOutput.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Our_or_In_put\\IOutput.cs",
+              "RelativeToolTip": "lucky\\Our_or_In_put\\IOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:54:37.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rules.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Other\\Rules.cs",
+              "RelativeDocumentMoniker": "lucky\\Other\\Rules.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Other\\Rules.cs",
+              "RelativeToolTip": "lucky\\Other\\Rules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:46:19.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdiotChecker.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Checker\\IdiotChecker.cs",
+              "RelativeDocumentMoniker": "lucky\\Checker\\IdiotChecker.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Checker\\IdiotChecker.cs",
+              "RelativeToolTip": "lucky\\Checker\\IdiotChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:42:08.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IChecker.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Checker\\IChecker.cs",
+              "RelativeDocumentMoniker": "lucky\\Checker\\IChecker.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Checker\\IChecker.cs",
+              "RelativeToolTip": "lucky\\Checker\\IChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:41:13.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomNumGenerate.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\RandomNumberGenerator\\RandomNumGenerate.cs",
+              "RelativeDocumentMoniker": "lucky\\RandomNumberGenerator\\RandomNumGenerate.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\RandomNumberGenerator\\RandomNumGenerate.cs",
+              "RelativeToolTip": "lucky\\RandomNumberGenerator\\RandomNumGenerate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:38:23.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lucky.csproj",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\lucky.csproj",
+              "RelativeDocumentMoniker": "lucky\\lucky.csproj",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\lucky.csproj",
+              "RelativeToolTip": "lucky\\lucky.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T15:36:55.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenerate.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\RandomNumberGenerator\\IGenerate.cs",
+              "RelativeDocumentMoniker": "lucky\\RandomNumberGenerator\\IGenerate.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\RandomNumberGenerator\\IGenerate.cs",
+              "RelativeToolTip": "lucky\\RandomNumberGenerator\\IGenerate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:36:50.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Program.cs",
+              "RelativeDocumentMoniker": "lucky\\Program.cs",
+              "ToolTip": "C:\\Users\\shodde\\source\\repos\\Program_tecnhology\\DeutscheBank\\DeutscheBank\\src\\lucky\\lucky\\Program.cs",
+              "RelativeToolTip": "lucky\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:27:20.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
